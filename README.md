@@ -30,3 +30,7 @@ If you have a Google Earth Engine account, you can directly click on [this link]
 
 ### Explore the App
 We have also developed the first version of our app! Click on [this link](https://ee-mnarimani.projects.earthengine.app/view/digitalaglabsatelliteplanttraitsvisualizer) to explore it.
+
+## Contact
+
+For further information or questions, please contact the author, Mohammadreza Narimani, at [mnarimani@ucdavis.edu].
