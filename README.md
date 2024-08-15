@@ -19,4 +19,14 @@ The script also incorporates a Gaussian Process Regression (GPR) model for retri
 
 > Estévez, J., Salinero-Delgado, M., Berger, K., Pipia, L., Rivera-Caicedo, J. P., Wocher, M., ... & Verrelst, J. (2022). Gaussian processes retrieval of crop traits in Google Earth Engine based on Sentinel-2 top-of-atmosphere data. Remote sensing of environment, 273, 112958.
 
-The script is designed to be user-friendly, with clear instructions provided on the map interface. It is particularly useful for agricultural researchers and practitioners looking to analyze crop health and environmental conditions over time.
+### How to Use
+To use this tool, you need to add the following three JavaScript files to your Google Earth Engine code editor and run them:
+
+- `PolygonScaleTraits.js`
+- `TraitsGPRModels.js`
+- `legendVisualization.js`
+
+If you have a Google Earth Engine account, you can directly click on [this link](https://code.earthengine.google.com/?accept_repo=users/mnarimani/SatellitePlantTraitsVisualizer) to add the code to the "Reader" section of your script panel.
+
+### Explore the App
+We have also developed the first version of our app! Click on [this link](https://ee-mnarimani.projects.earthengine.app/view/digitalaglabsatelliteplanttraitsvisualizer) to explore it.
