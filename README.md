@@ -1,4 +1,4 @@
-# GEE_Satellite_Plant_Traits_Visualizer
+# GEE Satellite Plant Traits Visualizer
 
 **University of California, Davis - Digital Agriculture Laboratory**  
 **Author:** Mohammadreza Narimani
